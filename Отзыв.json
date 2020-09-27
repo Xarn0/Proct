@@ -1,0 +1,25 @@
+[{
+  "name":"Alex",
+  "surname": "Fhonov",
+  "age":20,
+  "text": "удобно и просто"
+},
+{
+    "name":"Ivan",
+    "surname": "Ivanov",
+    "age":34,
+    "text": "Мне понравилось"
+},
+{
+    "name":"Inna",
+    "surname": "Ivanova",
+    "age":19,
+    "text": "Мне не понравилось"  
+},
+{
+    "name":"Irina",
+    "surname": "grodova",
+    "age":32,
+    "text": "Мне  понравилось"  
+}
+]

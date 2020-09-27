@@ -1,0 +1,25 @@
+main{
+    position: relative;
+}
+
+.returnBook{
+    padding: 90px;
+    position: absolute;
+    left: 20%;
+    top: 20%;
+    background-color: rgba(95, 158, 160, 0.644);}
+header h1{
+    text-align: center;
+    font-size: 50px;
+}
+.returnBook input[type = submit]{
+  
+    border: none;
+    background-image: url('http://htmlbook.ru/example/images/video.png');
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    width: 16px;
+    height: 16px;
+    padding: 1px 6px;
+    
+}

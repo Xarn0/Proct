@@ -1,0 +1,16 @@
+[{
+ "login": "user",
+ "password" : "user"
+},
+{
+    "login": "Admin",
+    "password" : "Admin"
+},
+{
+    "login": "root",
+    "password" : "root"   
+},
+{
+    "login": "tor",
+    "password" : "12345"    
+}]
